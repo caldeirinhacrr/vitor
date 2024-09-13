@@ -3,4 +3,4 @@ meu nome é vitor mattos
 estou estudando na alura
 estou me desenvolvendo a linguagem do JavaScript
 
-![https://github.com/caldeirinhacrr](link)
+![](https://github.com/caldeirinhacrr)
